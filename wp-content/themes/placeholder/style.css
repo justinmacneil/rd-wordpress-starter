@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*
+Theme Name: Placeholder
+Theme URI: #
+Author: the RealDecoy
+Author URI: #
+Description: Placeholder Theme
+Requires at least: WordPress 4.0.0
+Version: 1.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: placeholder
+*/
+@import "assets/css/styles.css";
