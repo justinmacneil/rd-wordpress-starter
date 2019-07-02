@@ -1,0 +1,27 @@
+
+# ignore .htaccess and config files
+/.htaccess
+/wp-config.php
+
+# ignore uploads
+wp-content/uploads
+
+# ignore cache directory and config
+/wp-content/cache
+/wp-content/advanced-cache.php
+/wp-content/object-cache.php
+/wp-content/w3tc-config
+
+# ignore log files and database exports
+*.log
+*.sql
+*.sql.gz
+
+# ignore node dependencies
+node_modules/
+
+# ignore vagrant directory
+.vagrant
+
+# ignore sass cache
+.sass-cache/
